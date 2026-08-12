@@ -6,5 +6,5 @@ The [Netflix Prize Shows Information (9000 Shows)](https://www.kaggle.com/datase
 * Power BI - Dashboard
 
 ## Power BI Dashboard
-![IMDb_page 1](<img width="912" height="527" alt="image" src="https://github.com/user-attachments/assets/d1f083f6-a66b-499c-b550-40afb44f6fdb" />)
-![IMDb_page 2](<img width="910" height="523" alt="image" src="https://github.com/user-attachments/assets/7a2105c3-20c7-4db5-ab4b-8440ad51f2ad" />)
+![IMDb_page 1](https://github.com/karlyndiary/IMDb-Data-Analysis/assets/116041695/30b92dd9-469d-498a-b448-6b8f1f66c23a)
+![IMDb_page 2](https://github.com/karlyndiary/IMDb-Data-Analysis/assets/116041695/e96f32a5-2057-4fa9-a7bc-1ea05c6f9782)
