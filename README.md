@@ -2,7 +2,7 @@
 
 This project explores the [Netflix Prize Shows Information (9000 Shows)](https://www.kaggle.com/datasets/akashguna/netflix-prize-shows-information) dataset from Kaggle, which includes genres, languages, durations, and more. The dataset gives a solid base for understanding what shapes viewer preferences and content trends across Netflix.
 
-📥 [**Download the Power BI Dashboard**](https://github.com/ron-kothari/IMDb-Data-Analysis-With-PowerBI-and-Python/blob/main/IMDb%20Dashboard.pbix)
+📥 [**Download the PowerBI Dashboard**](https://github.com/ron-kothari/IMDb-Data-Analysis-With-PowerBI-and-Python/blob/main/IMDb%20Dashboard.pbix)
 
 📥 [**View the Jupyter Notebook**](https://github.com/ron-kothari/IMDb-Data-Analysis-With-PowerBI-and-Python/blob/main/IMDb%20EDA.ipynb)
 
