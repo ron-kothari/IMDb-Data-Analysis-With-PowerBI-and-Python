@@ -16,7 +16,7 @@ This project explores the [Netflix Prize Shows Information (9000 Shows)](https:/
 ![IMDb page 2](https://github.com/ron-kothari/IMDb-Data-Analysis-With-PowerBI-and-Python/blob/main/imdb%20page%202.jpg)
 
 
-## 🖥️ Snippets of Python Code
+## 🖥️ Snippets from the Jupyter Notebook
 
 <img width="885" height="593" alt="image" src="https://github.com/user-attachments/assets/078ac76f-96a0-40d2-b4be-b6cd6497e91d" />
 <img width="839" height="616" alt="image" src="https://github.com/user-attachments/assets/bdd78ab6-d473-42bb-82bc-a0be162415de" />
